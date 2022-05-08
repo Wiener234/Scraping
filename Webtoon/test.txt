@@ -1,0 +1,2686 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!doctype html>
+
+<html lang="de">
+<head>
+
+
+<title>Ep.29 - 29 | Leveling Up My Husband to the Max</title>
+<meta name="keywords" content="Leveling Up My Husband to the Max, 29, Ep.29, Romance, WEBTOON" />
+<meta name="description" content="29 ist draußen! Lies kostenlos die neuste Folge von Leveling Up My Husband to the Max auf der offiziellen WEBTOON Seite. JEDE IMMER MONTAG online." />
+
+
+
+
+
+
+ 
+
+
+<link rel="alternate" hreflang="de" href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep29/viewer?title_no=3643&episode_no=29" />
+
+<link rel="alternate" hreflang="x-default" href="https://www.webtoons.com/en/romance/leveling-up-my-husband-to-the-max/ep29/viewer?title_no=3643&episode_no=29" />	
+<link rel="canonical" href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep29/viewer?title_no=3643&episode_no=29" />
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep29/viewer?title_no=3643&episode_no=29" />	
+
+
+
+
+
+
+
+
+
+
+
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<link rel="shortcut icon" href="https://webtoons-static.pstatic.net/image/favicon/favicon.ico?dt=2017082301" type="image/x-icon">
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+		
+		
+	
+
+
+<link rel="stylesheet" type="text/css" href="/static/bundle/linewebtoon-9b7f36919a56cc0c2f0f.css">
+
+
+
+<script type="text/javascript">
+	window.__headerState__ = {
+		nclkLanguageCode: "de_de",
+		languageCode: "de",
+		cssCode: "de",
+		cssCodePrefix: "",
+		gaTrackingId: "UA-57082184-1",
+		contentLanguage: "GERMAN",
+		contentLanguageCode : 'de',
+		gakSerName: "gak.webtoons.com",
+		serviceZone: 'GLOBAL',
+		facebookAdId: "",
+		nclickServer: "cc.loginfra.com",
+		lcsServer: 'lcs.loginfra.com',
+		browserType : "FIREFOX",
+		gaPageName : "",
+		googleAdsState : {
+			gadWebtoonReadEvent : "true",
+			title : "Leveling Up My Husband to the Max",
+			titleNo : "3643",
+			episodeNo : "29",
+			gadConversion : {
+				"th": [{
+					// GAD 태국 광고 계정 1
+					conversionId: "AW-761239969", // AW-CONVERSION_ID : Google Ads 계정에 고유한 전환 ID
+					conversionLabel: "yhf1CLXkr-0CEKGz_uoC" // AW-CONVERSION_LABEL : 각 전환 액션에 고유하게 부여되는 전환 라벨
+				}, {
+					// GAD 태국 광고 계정 2
+					conversionId: "AW-758804776",
+					conversionLabel: "GzVDCNuRsO0CEKji6ekC"
+				}]
+				// 언어가 추가되면 배열로 넣음
+			}
+		}
+	}
+
+	let ccsrv = window.ccsrv = window.__headerState__.nclickServer;
+	let nsc = window.nsc = "webtoons.all";
+	let nclk_evt = window.nclk_evt = 3;
+	let lcs_SerName = window.lcs_SerName = window.__headerState__.lcsServer;
+	let sNclkLanguageCode = window.sNclkLanguageCode = window.__headerState__.nclkLanguageCode;
+</script>
+<script type="text/javascript" src="/static/bundle/header-9d643cf5d9d061aa00ff.js" charset="utf-8"></script>
+<script type="text/javascript" src="/static/bundle/common/header-e3ab9c9415f9397bdc62.js" charset="utf-8"></script>
+
+<meta property="og:title" content="Leveling Up My Husband to the Max - Ep.29" />
+<meta property="og:type" content="com-linewebtoon:episode" />
+<meta property="og:url" content="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep29/viewer?title_no=3643&episode_no=29" />
+<meta property="og:site_name" content="www.webtoons.com" />
+<meta property="og:image" content="https://swebtoon-phinf.pstatic.net/20211101_24/1635750672708iSHw9_JPEG/38Leveling2BUp2BMy2BHusband2Bto2Bthe2BMax_launch_mobile_landingpage.jpg?type=crop540_540" />
+<meta property="og:description" content="Ein kalter, gef&uuml;hlloser Ehemann, eine unvern&uuml;nftige Schwiegermutter und ein unrechtm&auml;&szlig;iger Tod &ndash; k&ouml;nnte es im Leben noch schlimmer kommen? Was w&auml;re, wenn du die Chance bek&auml;mst, die Dinge zu &auml;ndern? Als Amber im Moment ihrer Hinrichtung zehn Jahre in die Vergangenheit geschickt wird, steht sie der j&uuml;ngeren Version ihres Mannes gegen&uuml;ber, aber irgendetwas ist anders an ihm ... er l&auml;sst sich von ihr nach Belieben herumkommandieren! Wird es ihr gelingen, zu verhindern, dass sich ihr Schicksal wiederholt, oder wird ihr Leben erneut im Ungl&uuml;ck enden? Die Operation &ldquo;Leveling Up My Husband to the Max&rdquo; beginnt jetzt!" />
+<meta property="com-linewebtoon:episode:author" content="Uginon / Nuova" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:site" content="@LINEWebtoon"/>
+<meta name="twitter:image" content="https://swebtoon-phinf.pstatic.net/20211101_24/1635750672708iSHw9_JPEG/38Leveling2BUp2BMy2BHusband2Bto2Bthe2BMax_launch_mobile_landingpage.jpg?type=crop540_540"/>
+<meta name="twitter:description" content="Ein kalter, gef&uuml;hlloser Ehemann, eine unvern&uuml;nftige Schwiegermutter und ein unrechtm&auml;&szlig;iger Tod &ndash; k&ouml;nnte es im Leben noch schlimmer kommen? Was w&auml;re, wenn du die Chance bek&auml;mst, die Dinge zu &auml;ndern? Als Amber im Moment ihrer Hinrichtung zehn Jahre in die Vergangenheit geschickt wird, steht sie der j&uuml;ngeren Version ihres Mannes gegen&uuml;ber, aber irgendetwas ist anders an ihm ... er l&auml;sst sich von ihr nach Belieben herumkommandieren! Wird es ihr gelingen, zu verhindern, dass sich ihr Schicksal wiederholt, oder wird ihr Leben erneut im Ungl&uuml;ck enden? Die Operation &ldquo;Leveling Up My Husband to the Max&rdquo; beginnt jetzt!"/>
+<meta property="al:android:url" content="linewebtoon://viewer/webtoon?titleNo=3643&episodeNo=29"/>
+<meta property="al:android:package" content="com.naver.linewebtoon"/>
+<meta property="al:android:app_name" content="LINE WEBTOON"/>
+<meta name="twitter:app:name:googleplay" content="LINE WEBTOON"/>
+<meta name="twitter:app:id:googleplay" content="com.naver.linewebtoon"/>
+<meta name="twitter:app:url:googleplay" content="linewebtoon://viewer/webtoon?titleNo=3643&episodeNo=29"/>
+<meta property="al:ios:url" content="linewebtoon://viewer/webtoon?titleNo=3643&episodeNo=29" />
+<meta property="al:ios:app_store_id" content="894546091" />
+<meta property="al:ios:app_name" content="LINE WEBTOON" />
+<meta name="twitter:app:name:iphone" content="LINE WEBTOON"/>
+<meta name="twitter:app:id:iphone" content="894546091"/>
+<meta name="twitter:app:url:iphone" content="linewebtoon://viewer/webtoon?titleNo=3643&episodeNo=29"/>
+<meta name="twitter:app:name:ipad" content="LINE WEBTOON"/>
+<meta name="twitter:app:id:ipad" content="894546091"/>
+<meta name="twitter:app:url:ipad" content="linewebtoon://viewer/webtoon?titleNo=3643&episodeNo=29"/>
+
+<meta name="robots" content="noimageindex, noarchive " />
+
+<style type="text/css">
+#toolbarSensor {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)"; /* IE 8 */
+	filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0); /* IE 7 and olders */
+	opacity:0;
+}
+
+</style>
+</head>
+<body class="de">
+	<div id="wrap">
+		<!-- skip navigation -->
+		<div id="u_skip">
+			<a href="#content" onclick="document.getElementById('content').tabIndex=-1;document.getElementById('content').focus();return false;"><span>skip content</span></a>
+		</div>
+		<!-- //skip navigation -->
+
+		<!-- container -->
+	    <div id="container">
+	    	
+	    	<div class="tool_area" id="toolbarSensor"></div>
+			<div class="tool_area NE=a:vtw" id="toolbar">
+				<div class="info">
+					<p class="logo"><a href="https://www.webtoons.com/de/" class="btn_logo NPI=a:home,g:de_de" >WEBTOON</a></p>
+
+					<div class="subj_info">
+						<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/list?title_no=3643" class="subj NPI=a:end,g:de_de" title="Leveling Up My Husband to the Max" >Leveling Up My Husband to the Max</a>
+						<span class="ico_arr2"></span>
+						<h1 class="subj_episode" title="Ep.29">Ep.29</h1>
+					</div>
+				</div>
+				<div class="paginate v2">
+					
+					<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep28/viewer?title_no=3643&episode_no=28" title="Vorherige Folge" class="pg_prev _prevEpisode NPI=a:prev,g:de_de"><em>Vorherige Folge</em></a>
+					
+					
+					<span class="tx _btnOpenEpisodeList NPI=a:current,g:de_de">#29</span>
+					
+					
+					<span title="Nächste Seite" class="pg_next dim"><em>Nächste Seite</em></span>
+					
+				</div>
+
+				
+				
+				<div class="episode_area" id="topEpisodeList">
+					<div class="episode_lst">
+						<div class="episode_cont">
+							<ul style="left: 0px;">
+							
+								
+								<li data-episode-no="1">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep01/viewer?title_no=3643&episode_no=1" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211101_218/1635755026598zVmks_PNG/thumb_1635754992444364310.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.01">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.01</span>
+								</a></li>
+							
+								
+								<li data-episode-no="2">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep02/viewer?title_no=3643&episode_no=2" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211108_289/1636363390047N27pa_PNG/thumb_8EP02_003-28Revised29_11.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.02">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.02</span>
+								</a></li>
+							
+								
+								<li data-episode-no="3">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep03/viewer?title_no=3643&episode_no=3" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211108_162/16363634141377CJLe_PNG/thumb_3EP03_005-28Revised29_05.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.03">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.03</span>
+								</a></li>
+							
+								
+								<li data-episode-no="4">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep04/viewer?title_no=3643&episode_no=4" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211108_184/1636363450057nI99I_PNG/thumb_0EP04_002-28Revised29_05.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.04">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.04</span>
+								</a></li>
+							
+								
+								<li data-episode-no="5">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep05/viewer?title_no=3643&episode_no=5" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211108_71/1636363484690vCcG1_PNG/thumb_3EP05_003-28Revised29_01.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.05">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.05</span>
+								</a></li>
+							
+								
+								<li data-episode-no="6">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep06/viewer?title_no=3643&episode_no=6" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211108_38/1636363508293iewXy_PNG/thumb_9EP06_002_11.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.06">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.06</span>
+								</a></li>
+							
+								
+								<li data-episode-no="7">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep07/viewer?title_no=3643&episode_no=7" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211108_209/1636363536485cXQ5w_PNG/thumb_8EP07_005_07.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.07">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.07</span>
+								</a></li>
+							
+								
+								<li data-episode-no="8">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep08/viewer?title_no=3643&episode_no=8" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211108_274/1636363562145VM94S_PNG/thumb_4EP08_002_10.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.08">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.08</span>
+								</a></li>
+							
+								
+								<li data-episode-no="9">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep09/viewer?title_no=3643&episode_no=9" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211108_73/1636363606750Cz74L_PNG/thumb_8EP09_003_06.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.09">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.09</span>
+								</a></li>
+							
+								
+								<li data-episode-no="10">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep10/viewer?title_no=3643&episode_no=10" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211108_290/1636363643093eQYPz_PNG/thumb_6EP10_004_05.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.10">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.10</span>
+								</a></li>
+							
+								
+								<li data-episode-no="11">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep11/viewer?title_no=3643&episode_no=11" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211122_179/1637567223749DYmUe_PNG/thumb_3EP11_001_09.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.11">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.11</span>
+								</a></li>
+							
+								
+								<li data-episode-no="12">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep12/viewer?title_no=3643&episode_no=12" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211122_29/1637567255379N1ItB_PNG/thumb_5EP12_002_08.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.12">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.12</span>
+								</a></li>
+							
+								
+								<li data-episode-no="13">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep13/viewer?title_no=3643&episode_no=13" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211201_100/1638346789684ySS5e_PNG/thumb_4EP13_002_07.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.13">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.13</span>
+								</a></li>
+							
+								
+								<li data-episode-no="14">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep14/viewer?title_no=3643&episode_no=14" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211201_51/1638346813378KrQR0_PNG/thumb_4EP14_003_04.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.14">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.14</span>
+								</a></li>
+							
+								
+								<li data-episode-no="15">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep15/viewer?title_no=3643&episode_no=15" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211206_46/1638782499615vCgOq_PNG/thumb_4EP15_002_05.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.15">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.15</span>
+								</a></li>
+							
+								
+								<li data-episode-no="16">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep16/viewer?title_no=3643&episode_no=16" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211206_63/1638782555867cvXnd_PNG/thumb_1EP16_001_11.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.16">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.16</span>
+								</a></li>
+							
+								
+								<li data-episode-no="17">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep17/viewer?title_no=3643&episode_no=17" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211220_234/1639995849265MRVt6_PNG/thumb_4EP17_003_02.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.17">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.17</span>
+								</a></li>
+							
+								
+								<li data-episode-no="18">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep18/viewer?title_no=3643&episode_no=18" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211220_61/1639995983504MbOId_PNG/thumb_1EP18_002_08.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.18">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.18</span>
+								</a></li>
+							
+								
+								<li data-episode-no="19">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep19/viewer?title_no=3643&episode_no=19" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211220_249/1639996002508ThBpw_PNG/thumb_8EP19_001_12.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.19">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.19</span>
+								</a></li>
+							
+								
+								<li data-episode-no="20">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep20/viewer?title_no=3643&episode_no=20" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20220107_80/1641540630243ipLOM_PNG/thumb_1EP20_001_11.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.20">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.20</span>
+								</a></li>
+							
+								
+								<li data-episode-no="21">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep21/viewer?title_no=3643&episode_no=21" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20220107_243/1641540658682dp6LH_PNG/thumb_4EP21_005_05.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.21">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.21</span>
+								</a></li>
+							
+								
+								<li data-episode-no="22">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep22/viewer?title_no=3643&episode_no=22" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20220107_162/16415406974433Fepo_PNG/thumb_4EP22_001_10.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.22">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.22</span>
+								</a></li>
+							
+								
+								<li data-episode-no="23">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep23/viewer?title_no=3643&episode_no=23" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20220107_9/1641540727305QB9fY_PNG/thumb_2EP23_006_08.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.23">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.23</span>
+								</a></li>
+							
+								
+								<li data-episode-no="24">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep24/viewer?title_no=3643&episode_no=24" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20220124_177/1643014467442Vo5j7_PNG/thumb_8EP24_004-28Revised29_02.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.24">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.24</span>
+								</a></li>
+							
+								
+								<li data-episode-no="25">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep25/viewer?title_no=3643&episode_no=25" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20220124_225/16430145920554luYf_PNG/thumb_1Leveling-Up_EP25_002-28Revised29_06.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.25">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.25</span>
+								</a></li>
+							
+								
+								<li data-episode-no="26">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep26/viewer?title_no=3643&episode_no=26" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20220126_133/1643176257670cTSn9_PNG/thumb_6Leveling-Up_EP26_001_09.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.26">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.26</span>
+								</a></li>
+							
+								
+								<li data-episode-no="27">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep27/viewer?title_no=3643&episode_no=27" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20220126_149/16431762789881lfti_PNG/thumb_1Leveling-Up_EP27_003_12.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.27">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.27</span>
+								</a></li>
+							
+								
+								<li data-episode-no="28">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep28/viewer?title_no=3643&episode_no=28" class=" N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20220304_153/16463851148407qnGc_PNG/thumb_1Leveling-Up_EP-28_002_06.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.28">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.28</span>
+								</a></li>
+							
+								
+								<li data-episode-no="29">
+									<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep29/viewer?title_no=3643&episode_no=29" class="on N=a:vtw.llist,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20220304_114/1646385154246JX1BI_PNG/thumb_1Leveling-Up_EP-29_003_03.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.29">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.29</span>
+								</a></li>
+							
+							</ul>
+						</div>
+						<div class="paginate">
+							<a href="#" title="Vorheriges Auftreten" class="pg_prev NPI=a:lprev,g:de_de"><em>Vorheriges Auftreten</em></a>
+							<a href="#" title="Nächstes Auftreten" class="pg_next NPI=a:lnext,g:de_de"><em>Nächstes Auftreten</em></a>
+						</div>
+					</div>
+				</div>
+				<a href="#" title="List Collapse" class="btn_episode_fd _btnCloseEpisodeList NPI=a:close,g:de_de"></a>
+				
+
+				<div class="right_area" id="_toolBarRightArea">
+					
+
+					<ul class="spi_area">
+					<li class="relative">
+						<a href="#" class="ico_favorites _favorites NPI=a:addfav,g:de_de" title="Abonnieren" onclick="return false;">Abonnieren</a>
+						<div class="ly_area">
+							<span class="ly_cont _addFavorite">Zu deiner Aboliste hinzugefügt</span>
+							<span class="ly_cont _removeFavorite" style="display:none">Von deiner Aboliste entfernt</span>
+							<span class="ly_cont _overLimitFavorite" style="display:none">Du kannst bis zu 500 WEBTOON ORIGINALE abonnieren.</span>
+							<span class="ico_arr up v2"></span>
+						</div>
+					</li>
+					<li><a href="#" class="ico_facebook NPI=a:fb,g:de_de" title="Facebook" onclick="return false;">Facebook</a></li>
+				
+					<li><a href="#" class="ico_twitter NPI=a:tw,g:de_de" title="Twitter" onclick="return false;">Twitter</a></li>
+					<li>
+						<a href="#" class="ico_copy" title="URL kopieren" onclick="return false;" style="cursor:pointer" data-click-code="vtw.copy">URL kopieren</a>
+						<div class="ly_area _copyInfo">
+							<span class="ly_cont">Die URL wurde kopiert.<br> An der gewünschten Stelle einfügen (Strg+V).</span>
+							<span class="ico_arr up v2"></span>
+						</div>
+					</li>
+					</ul>
+				</div>
+			</div>
+			
+			<!-- content -->
+	        <div id="content" class="viewer">
+	        	<div class="cont_box" id="_viewerBox">
+					<div class="viewer_lst">
+						
+					
+					
+						
+						
+						
+							
+							<div class="viewer_img _img_viewer_area " id="_imageList">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_137/1646385131817lY3H6_JPEG/16463851318043643290.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_48/1646385131810LXNrT_JPEG/16463851317753643291.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_97/1646385131861w4r5F_JPEG/16463851318233643296.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_68/16463851318132XwMb_JPEG/16463851318043643299.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_217/1646385131855VWILO_JPEG/16463851318483643296.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_215/1646385131898gtwvo_JPEG/16463851318893643295.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_262/1646385131941QIwO6_JPEG/16463851319353643293.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_50/1646385131970Cjfnl_JPEG/16463851319643643298.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_207/1646385132025tJU2q_JPEG/16463851320103643295.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_153/1646385132030liMnt_JPEG/16463851319903643292.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_186/1646385132007eQwHj_JPEG/16463851320003643290.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_10/1646385132026YqX4u_JPEG/16463851320183643293.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="33.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_127/1646385132049VvOT9_JPEG/16463851320443643299.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_168/16463851321058qfxo_JPEG/16463851320973643292.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_49/1646385132114WXeo4_JPEG/16463851321073643291.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_204/1646385132125LM48u_JPEG/16463851321183643291.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_261/1646385132209IBxul_JPEG/16463851321703643295.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_52/1646385132168JbGKf_JPEG/16463851321603643291.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_229/16463851322067fV8v_JPEG/16463851321943643297.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_98/16463851322116ffl1_JPEG/16463851322033643299.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_246/1646385132243T0kde_JPEG/16463851322223643299.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_265/16463851322827npqO_JPEG/16463851322773643293.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_234/1646385132323md3Ws_JPEG/16463851323173643298.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_41/1646385132347YDaDp_JPEG/16463851323393643295.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_207/1646385132385T21dy_JPEG/16463851323513643299.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_203/1646385132382c7AVe_JPEG/16463851323763643293.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_232/16463851324397hThr_JPEG/16463851324193643290.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="985.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_110/1646385132412eA17b_JPEG/16463851324053643295.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_102/1646385132439S9wuk_JPEG/16463851324323643292.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_38/1646385132506fvH0Y_JPEG/16463851324973643298.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_184/1646385132552q0bv9_JPEG/16463851325213643295.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_205/1646385132514Bti4p_JPEG/16463851325043643298.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_43/1646385132608Ut1kC_JPEG/16463851325623643290.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_198/16463851325962uQjS_JPEG/16463851325703643295.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_266/1646385132628cwumr_JPEG/16463851326153643298.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_8/1646385132646ccDMH_JPEG/16463851326383643294.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_201/1646385132699ttlSG_JPEG/16463851326923643298.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_70/1646385132776u2GtC_JPEG/16463851327333643297.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_217/1646385132749U2TdL_JPEG/16463851327393643290.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_205/1646385132774Y2qzK_JPEG/16463851327653643297.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_205/1646385132813I708D_JPEG/16463851327803643292.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="878.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_186/1646385132858CiI8x_JPEG/16463851328223643294.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_72/1646385132838EyVii_JPEG/16463851328223643291.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_99/16463851328457h2bW_JPEG/16463851328383643296.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_144/1646385132915a4rJB_JPEG/16463851328993643298.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_10/1646385132939WutQF_JPEG/16463851329313643298.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_129/1646385133006bm693_JPEG/16463851329633643290.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_166/16463851330117IbD1_JPEG/16463851329963643298.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_277/1646385133047CNwB4_JPEG/16463851330413643291.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_125/1646385133105FdkVQ_JPEG/16463851330603643297.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_103/1646385133160f23uN_JPEG/16463851331553643296.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_253/1646385133166SHcCt_JPEG/16463851331333643294.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_139/16463851331517xJNJ_JPEG/16463851331413643299.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_84/1646385133185sCBF9_JPEG/16463851331513643291.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_25/1646385133233RmqGE_JPEG/16463851332243643296.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_267/1646385133254wniYG_JPEG/16463851332483643298.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_145/1646385133306kjboa_JPEG/16463851332753643297.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="723.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_192/16463851333397uGIb_JPEG/16463851333133643298.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_121/1646385133345TKutS_JPEG/16463851333393643293.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_46/1646385133343kauhK_JPEG/16463851333183643291.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_45/1646385133361rm85l_JPEG/16463851333533643290.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_169/1646385133419zliqC_JPEG/16463851334093643292.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_152/1646385133475RNq5D_JPEG/16463851334503643299.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_14/1646385133506jYq2J_JPEG/16463851334673643298.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_129/1646385133520iaCMu_JPEG/16463851335103643299.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_121/1646385133543oN4zc_JPEG/16463851334993643296.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_205/1646385133514CNto4_JPEG/16463851335063643292.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_81/16463851336304pGJp_JPEG/16463851336213643295.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_112/1646385133611X1GAP_JPEG/16463851336043643299.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_53/1646385133653dTFVJ_JPEG/16463851336183643292.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_205/1646385133677S4j42_JPEG/16463851336713643297.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_255/1646385133719OrSMQ_JPEG/16463851336853643294.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="321.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_28/1646385133689IYEuL_JPEG/16463851336843643294.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_275/1646385133800jH2g5_JPEG/16463851337453643293.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_299/16463851338141Ugr9_JPEG/16463851338053643292.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_14/16463851338101APve_JPEG/16463851338043643293.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_84/1646385133820AQIc2_JPEG/16463851337883643291.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_148/1646385133901Otz1j_JPEG/16463851338593643292.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_37/1646385133962wsWtT_JPEG/16463851339523643295.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_102/1646385133971rN0fv_JPEG/16463851339593643299.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_127/1646385134027Ik6H8_JPEG/16463851339883643298.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_37/1646385134045xN73W_JPEG/16463851340023643294.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_77/1646385134035eb1WO_JPEG/16463851340293643290.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_9/1646385134108daaWp_JPEG/16463851340793643296.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_291/1646385134109sxuGF_JPEG/16463851341013643296.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_121/1646385134154P1Dim_JPEG/16463851341433643296.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_130/16463851342056jU2I_JPEG/16463851341903643299.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="1000.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_152/16463851342830yIRo_JPEG/16463851342343643297.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+								
+								
+								
+								
+								
+								
+								
+								<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" width="800" height="502.0" alt="image" class="_images" data-url="https://webtoon-phinf.pstatic.net/20220304_11/1646385134236YB01a_JPEG/16463851342253643292.jpg?type=q90" rel="nofollow" ondragstart="return false;" onselectstart="return false;" oncontextmenu="return false;">
+								
+							</div>
+						
+					
+					
+						
+						
+						
+
+					
+						
+						<p class="day_info _readComplete"><span class="txt_ico_up">UP</span>IMMER MONTAG</p>
+					
+
+						<p class="dsc_encourage">Teile diese Serie<br> und unterstütze den Autor!</p>
+
+						
+						<ul class="spi_area">
+						<li class="relative">
+							<a href="#" id="likeItButton" class="lnk_like bx N=a:vbw.like,g:de_de" title="Gefällt mir">
+								
+								<em class="ico_like2 _btnLike">like Count</em><span class="_likeCount">Gefällt mir</span>
+							</a>
+                            
+                            <div class="ly_area share v2" id="_notiShare">
+                                    <span class="ly_cont" id="shareResult"></span>
+                                    <span class="ico_arr v2 dn"></span>
+                            </div>
+						</li>
+						<li class="relative">
+							
+							<a href="#none" id="footer_favorites" class="lnk_favorites bx _favorites N=a:vbw.addfav,g:de_de" onclick="return false;">
+								<em class="ico_plus3"></em>Abonnieren
+							</a>
+
+							
+							<div class="ly_area">
+								<span class="ly_cont _addFavorite">Zu deiner Aboliste hinzugefügt</span>
+								<span class="ly_cont _removeFavorite" style="display:none">Von deiner Aboliste entfernt</span>
+								<span class="ly_cont _overLimitFavorite" style="display:none">Du kannst bis zu 500 WEBTOON ORIGINALE abonnieren.</span>
+								<span class="ico_arr v2 dn"></span>
+							</div>
+						</li>
+						<li><a href="#" class="ico_facebook N=a:vbw*s.fb,g:de_de" title="Facebook" onclick="return false;">Facebook</a></li>
+					
+						<li><a href="#" class="ico_twitter N=a:vbw*s.tw,g:de_de" title="Twitter" onclick="return false;">Twitter</a></li>
+					
+						<li>
+							<a href="#" class="ico_copy" title="URL kopieren" onclick="return false;" style="cursor:pointer" data-click-code="vbw*s.copy">URL kopieren</a>
+							<div class="ly_area _copyInfo">
+								<span class="ly_cont">Die URL wurde kopiert.<br> An der gewünschten Stelle einfügen (Strg+V).</span>
+								<span class="ico_arr v2 dn"></span>
+							</div>
+						</li>
+						</ul>
+					</div>
+				</div>
+				
+			
+
+				
+				<div class="episode_area" id="bottomEpisodeList">
+					<div class="episode_lst" id="_bottomEpisodeList">
+						<div class="episode_cont">
+							<ul>
+						
+							
+							<li data-episode-no="1">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep01/viewer?title_no=3643&episode_no=1" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211101_218/1635755026598zVmks_PNG/thumb_1635754992444364310.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.01">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.01</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="2">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep02/viewer?title_no=3643&episode_no=2" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211108_289/1636363390047N27pa_PNG/thumb_8EP02_003-28Revised29_11.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.02">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.02</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="3">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep03/viewer?title_no=3643&episode_no=3" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211108_162/16363634141377CJLe_PNG/thumb_3EP03_005-28Revised29_05.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.03">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.03</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="4">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep04/viewer?title_no=3643&episode_no=4" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211108_184/1636363450057nI99I_PNG/thumb_0EP04_002-28Revised29_05.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.04">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.04</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="5">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep05/viewer?title_no=3643&episode_no=5" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211108_71/1636363484690vCcG1_PNG/thumb_3EP05_003-28Revised29_01.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.05">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.05</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="6">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep06/viewer?title_no=3643&episode_no=6" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211108_38/1636363508293iewXy_PNG/thumb_9EP06_002_11.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.06">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.06</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="7">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep07/viewer?title_no=3643&episode_no=7" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211108_209/1636363536485cXQ5w_PNG/thumb_8EP07_005_07.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.07">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.07</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="8">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep08/viewer?title_no=3643&episode_no=8" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211108_274/1636363562145VM94S_PNG/thumb_4EP08_002_10.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.08">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.08</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="9">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep09/viewer?title_no=3643&episode_no=9" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211108_73/1636363606750Cz74L_PNG/thumb_8EP09_003_06.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.09">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.09</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="10">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep10/viewer?title_no=3643&episode_no=10" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211108_290/1636363643093eQYPz_PNG/thumb_6EP10_004_05.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.10">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.10</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="11">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep11/viewer?title_no=3643&episode_no=11" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211122_179/1637567223749DYmUe_PNG/thumb_3EP11_001_09.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.11">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.11</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="12">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep12/viewer?title_no=3643&episode_no=12" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211122_29/1637567255379N1ItB_PNG/thumb_5EP12_002_08.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.12">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.12</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="13">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep13/viewer?title_no=3643&episode_no=13" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211201_100/1638346789684ySS5e_PNG/thumb_4EP13_002_07.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.13">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.13</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="14">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep14/viewer?title_no=3643&episode_no=14" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211201_51/1638346813378KrQR0_PNG/thumb_4EP14_003_04.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.14">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.14</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="15">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep15/viewer?title_no=3643&episode_no=15" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211206_46/1638782499615vCgOq_PNG/thumb_4EP15_002_05.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.15">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.15</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="16">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep16/viewer?title_no=3643&episode_no=16" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211206_63/1638782555867cvXnd_PNG/thumb_1EP16_001_11.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.16">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.16</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="17">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep17/viewer?title_no=3643&episode_no=17" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211220_234/1639995849265MRVt6_PNG/thumb_4EP17_003_02.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.17">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.17</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="18">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep18/viewer?title_no=3643&episode_no=18" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211220_61/1639995983504MbOId_PNG/thumb_1EP18_002_08.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.18">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.18</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="19">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep19/viewer?title_no=3643&episode_no=19" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20211220_249/1639996002508ThBpw_PNG/thumb_8EP19_001_12.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.19">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.19</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="20">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep20/viewer?title_no=3643&episode_no=20" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20220107_80/1641540630243ipLOM_PNG/thumb_1EP20_001_11.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.20">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.20</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="21">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep21/viewer?title_no=3643&episode_no=21" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20220107_243/1641540658682dp6LH_PNG/thumb_4EP21_005_05.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.21">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.21</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="22">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep22/viewer?title_no=3643&episode_no=22" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20220107_162/16415406974433Fepo_PNG/thumb_4EP22_001_10.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.22">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.22</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="23">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep23/viewer?title_no=3643&episode_no=23" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20220107_9/1641540727305QB9fY_PNG/thumb_2EP23_006_08.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.23">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.23</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="24">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep24/viewer?title_no=3643&episode_no=24" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20220124_177/1643014467442Vo5j7_PNG/thumb_8EP24_004-28Revised29_02.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.24">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.24</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="25">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep25/viewer?title_no=3643&episode_no=25" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20220124_225/16430145920554luYf_PNG/thumb_1Leveling-Up_EP25_002-28Revised29_06.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.25">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.25</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="26">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep26/viewer?title_no=3643&episode_no=26" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20220126_133/1643176257670cTSn9_PNG/thumb_6Leveling-Up_EP26_001_09.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.26">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.26</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="27">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep27/viewer?title_no=3643&episode_no=27" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20220126_149/16431762789881lfti_PNG/thumb_1Leveling-Up_EP27_003_12.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.27">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.27</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="28">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep28/viewer?title_no=3643&episode_no=28" class=" N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20220304_153/16463851148407qnGc_PNG/thumb_1Leveling-Up_EP-28_002_06.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.28">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.28</span>
+								</a>
+							</li>
+						
+							
+							<li data-episode-no="29">
+								<a href="https://www.webtoons.com/de/romance/leveling-up-my-husband-to-the-max/ep29/viewer?title_no=3643&episode_no=29" class="on N=a:vbw.list,g:de_de">
+									<span class="thmb">
+										<img src="https://webtoons-static.pstatic.net/image/bg_transparency.png" data-url="https://webtoon-phinf.pstatic.net/20220304_114/1646385154246JX1BI_PNG/thumb_1Leveling-Up_EP-29_003_03.png?type=q90" class="_thumbnailImages" width="92" height="87" alt="Ep.29">
+										<span class="mask"></span>
+									</span>
+									<span class="subj">Ep.29</span>
+								</a>
+							</li>
+						
+							</ul>
+						</div>
+						<div class="paginate">
+							<a href="#" title="Vorheriges Auftreten" class="pg_prev N=a:vbw.prev,g:de_de"><em>Vorheriges Auftreten</em></a>
+							<a href="#" title="Nächstes Auftreten" class="pg_next N=a:vbw.next,g:de_de"><em>Nächstes Auftreten</em></a>
+						</div>
+					</div>
+				</div>
+				
+
+				
+				
+
+
+
+
+	
+		
+		<div class="induce_app_area preview">
+			<div class="img_area"><img src="https://webtoon-phinf.pstatic.net/20220304_262/1646385183193i5A7w_PNG/thumb_6Leveling-Up_EP-30_001_16.png" width="60" height="60" alt="thumbnail"></div>
+			<div class="text_area">
+				<strong>Du willst mehr? Lies <em>6</em> weitere Folge(n) in der App!</strong>
+				<p>Scanne den QR Code, um die <em>WEBTOON</em> App herunterzuladen.</p>
+			</div>
+			<div class="qrcode_area">
+				<img src="/qr/app/episodeList/webtoon/3643" width="50" height="50" alt="QR Code" class="img_qrcode">
+			</div>
+		</div>
+	
+	
+	
+
+
+				
+
+				<div class="cont_box" id="_bottomDisplay">
+					
+					<div class="comment_area">
+					
+						<div id="creatorNoteArea" class="creator_note">
+							
+							<div class="info_area">
+								<h2>
+									<span class="author">
+									
+										
+										
+											
+											Uginon
+										
+									
+										 ,
+										
+											
+											Nuova
+										
+									
+									</span>
+									<span class="creator">Creator</span>
+								</h2>
+								
+							</div>
+						</div>
+						
+						
+							
+							
+								
+								<h2 class="title_comments" style="display:none" id="_commentOffTitleArea">Kommentare</h2>
+								<div id="cbox_module"></div>
+							
+						
+						
+					</div>
+					
+					
+					<div class="aside viewer">
+						<div class="ranking_lst viewer">
+					
+					
+					
+						
+						
+						
+						
+
+						
+
+
+
+
+
+
+	
+
+		
+
+
+		
+
+
+		
+			<div class="lst_area NE=a:vnt" id="newTitleRanking">
+				<div class="title_area">
+					<h2>
+						<a href="#" class="_rankingMoveBtn NPI=a:more,g:de_de" data-ranking-component-type="WEBTOON_NEW_TITLE_RANKING">
+							Neu und beliebt
+						</a>
+						<em class="ico_arr1">&gt;</em>
+					</h2>
+				</div>
+				
+
+
+<ul class="lst_type1 _titleListArea">
+  
+    <li>
+      <a href="https://www.webtoons.com/de/action/the-world-after-the-fall/list?title_no=4102"
+         class="NPI=a:list,i:4102,r:1,g:de_de">
+        <div class="pic_area" data-title-unsuitable-for-children="true" data-title-unsuitable-for-children-skin="harmful_black_skin2"><img src="https://webtoon-phinf.pstatic.net/20220412_189/1649725907840WiGe5_JPEG/3thumb_M+28529.jpg?type=a92" alt="The World After the Fall" width="80" height="80"></div>
+        <span class="num_area"><span class="ico_n1">1</span></span>
+        <div class="info_area">
+          <p class="genre">Action</p>
+          <p class="subj">The World After the Fall</p>
+          <p class="author">S-Cynan / Undead Gamja</p>
+        </div>
+      </a>
+    </li>
+  
+    <li>
+      <a href="https://www.webtoons.com/de/romance/it-was-all-you/list?title_no=4106"
+         class="NPI=a:list,i:4106,r:2,g:de_de">
+        <div class="pic_area" data-title-unsuitable-for-children="true" data-title-unsuitable-for-children-skin="harmful_black_skin2"><img src="https://webtoon-phinf.pstatic.net/20220310_50/16468939203812tV39_JPEG/62It2BWas2BAll2BYou_mobile_thumbnail.jpg?type=a92" alt="It Was All You" width="80" height="80"></div>
+        <span class="num_area"><span class="ico_n2">2</span></span>
+        <div class="info_area">
+          <p class="genre">Romantisch</p>
+          <p class="subj">It Was All You</p>
+          <p class="author">I SOON KI / OH5HO</p>
+        </div>
+      </a>
+    </li>
+  
+    <li>
+      <a href="https://www.webtoons.com/de/action/my-s-class-hunters/list?title_no=4108"
+         class="NPI=a:list,i:4108,r:3,g:de_de">
+        <div class="pic_area" data-title-unsuitable-for-children="false" data-title-unsuitable-for-children-skin="harmful_black_skin2"><img src="https://webtoon-phinf.pstatic.net/20220413_133/1649816030665Kp1Yj_JPEG/74MySClassHunter_thumbnail_mobile.jpg?type=a92" alt="My S-Class Hunters" width="80" height="80"></div>
+        <span class="num_area"><span class="ico_n3">3</span></span>
+        <div class="info_area">
+          <p class="genre">Action</p>
+          <p class="subj">My S-Class Hunters</p>
+          <p class="author">biwan / geunseo</p>
+        </div>
+      </a>
+    </li>
+  
+    <li>
+      <a href="https://www.webtoons.com/de/action/castle/list?title_no=4097"
+         class="NPI=a:list,i:4097,r:4,g:de_de">
+        <div class="pic_area" data-title-unsuitable-for-children="true" data-title-unsuitable-for-children-skin="harmful_black_skin2"><img src="https://webtoon-phinf.pstatic.net/20220310_120/1646889480887UsTkS_JPEG/031.jpg?type=a92" alt="Castle" width="80" height="80"></div>
+        <span class="num_area"><span class="ico_n4">4</span></span>
+        <div class="info_area">
+          <p class="genre">Action</p>
+          <p class="subj">Castle</p>
+          <p class="author">Jeongyeon</p>
+        </div>
+      </a>
+    </li>
+  
+    <li>
+      <a href="https://www.webtoons.com/de/romance/devil-no-4/list?title_no=4096"
+         class="NPI=a:list,i:4096,r:5,g:de_de">
+        <div class="pic_area" data-title-unsuitable-for-children="false" data-title-unsuitable-for-children-skin="harmful_black_skin2"><img src="https://webtoon-phinf.pstatic.net/20220310_9/16468891106583zs7r_JPEG/011_EC8DB8EB84A4EC9DBC_mobile+28129.jpg?type=a92" alt="Teufel Nummer 4" width="80" height="80"></div>
+        <span class="num_area"><span class="ico_n5">5</span></span>
+        <div class="info_area">
+          <p class="genre">Romantisch</p>
+          <p class="subj">Teufel Nummer 4</p>
+          <p class="author">jangjin / woombeee</p>
+        </div>
+      </a>
+    </li>
+  
+  
+</ul>
+			</div>
+		
+
+
+		
+
+	
+
+	
+
+		
+			<div class="lst_area NE=a:vgt" id="genreRanking">
+				
+				<div class="title_area" style="">
+					<h2>
+						<a href="#" class="_rankingMoveBtn NPI=a:more,g:de_de" data-ranking-component-type="WEBTOON_GENRE_RANKING">
+							Nach Genre
+						</a>
+						<em class="ico_arr1">&gt;</em>
+					</h2>
+					<div class="sort_area _filterArea">
+						<a href="#" class="checked NPI=a:sort,g:de_de">Drama
+							<span class="ico_chk">(selected)</span>
+						</a>
+							
+						<ul class="sort_box _filterLayer">
+							
+								<li>
+									<a href="#" class="_filterItem NPI=a:byall,g:de_de" data-filter="ALL">
+										ALLE
+										
+									</a>
+								</li>
+							
+								<li>
+									<a href="#" class="_filterItem NPI=a:bydrama,g:de_de" data-filter="DRAMA">
+										Drama
+										
+											<span class="ico_chk">(selected)</span>
+										
+									</a>
+								</li>
+							
+								<li>
+									<a href="#" class="_filterItem NPI=a:byfantasy,g:de_de" data-filter="FANTASY">
+										Fantasy
+										
+									</a>
+								</li>
+							
+								<li>
+									<a href="#" class="_filterItem NPI=a:byaction,g:de_de" data-filter="ACTION">
+										Action
+										
+									</a>
+								</li>
+							
+								<li>
+									<a href="#" class="_filterItem NPI=a:byromance,g:de_de" data-filter="ROMANCE">
+										Romantisch
+										
+									</a>
+								</li>
+							
+								<li>
+									<a href="#" class="_filterItem NPI=a:bythriller,g:de_de" data-filter="THRILLER">
+										Thriller
+										
+									</a>
+								</li>
+							
+								<li>
+									<a href="#" class="_filterItem NPI=a:bycom,g:de_de" data-filter="COMEDY">
+										Comedy
+										
+									</a>
+								</li>
+							
+								<li>
+									<a href="#" class="_filterItem NPI=a:byothers,g:de_de" data-filter="GERMAN_OTHERS">
+										Andere 
+										
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</div>
+				
+
+
+<ul class="lst_type1 _titleListArea">
+  
+    <li>
+      <a href="https://www.webtoons.com/de/drama/the-wife/list?title_no=3261"
+         class="NPI=a:list,i:3261,r:1,g:de_de">
+        <div class="pic_area" data-title-unsuitable-for-children="true" data-title-unsuitable-for-children-skin="harmful_black_skin2"><img src="https://webtoon-phinf.pstatic.net/20210730_81/162763689382124Aur_JPEG/8thumb_M.jpg?type=a92" alt="The Wife" width="80" height="80"></div>
+        <span class="num_area"><span class="ico_n1">1</span></span>
+        <div class="info_area">
+          <p class="genre">Drama</p>
+          <p class="subj">The Wife</p>
+          <p class="author">JYUN / Mana</p>
+        </div>
+      </a>
+    </li>
+  
+    <li>
+      <a href="https://www.webtoons.com/de/drama/truebeauty/list?title_no=2621"
+         class="NPI=a:list,i:2621,r:2,g:de_de">
+        <div class="pic_area" data-title-unsuitable-for-children="false" data-title-unsuitable-for-children-skin="harmful_black_skin2"><img src="https://webtoon-phinf.pstatic.net/20220331_234/1648696337770WKr7I_JPEG/2111_EC8DB8EB84A4EC9DBC_mobile.jpg?type=a92" alt="True Beauty" width="80" height="80"></div>
+        <span class="num_area"><span class="ico_n2">2</span></span>
+        <div class="info_area">
+          <p class="genre">Drama</p>
+          <p class="subj">True Beauty</p>
+          <p class="author">Yaongyi</p>
+        </div>
+      </a>
+    </li>
+  
+    <li>
+      <a href="https://www.webtoons.com/de/drama/letsplay/list?title_no=2598"
+         class="NPI=a:list,i:2598,r:3,g:de_de">
+        <div class="pic_area" data-title-unsuitable-for-children="false" data-title-unsuitable-for-children-skin="harmful_black_skin2"><img src="https://webtoon-phinf.pstatic.net/20210317_274/1615975608784e6cby_JPEG/911_EC8DB8EB84A4EC9DBC_mobile.jpg?type=a92" alt="Let&#039;s Play" width="80" height="80"></div>
+        <span class="num_area"><span class="ico_n3">3</span></span>
+        <div class="info_area">
+          <p class="genre">Drama</p>
+          <p class="subj">Let's Play</p>
+          <p class="author">Mongie</p>
+        </div>
+      </a>
+    </li>
+  
+    <li>
+      <a href="https://www.webtoons.com/de/drama/hipster/list?title_no=2624"
+         class="NPI=a:list,i:2624,r:4,g:de_de">
+        <div class="pic_area" data-title-unsuitable-for-children="true" data-title-unsuitable-for-children-skin="harmful_black_skin2"><img src="https://webtoon-phinf.pstatic.net/20210321_221/1616329028327C5Mio_JPEG/843thumb_M.jpg?type=a92" alt="Ein hipper Kerl" width="80" height="80"></div>
+        <span class="num_area"><span class="ico_n4">4</span></span>
+        <div class="info_area">
+          <p class="genre">Drama</p>
+          <p class="subj">Ein hipper Kerl</p>
+          <p class="author">Henie</p>
+        </div>
+      </a>
+    </li>
+  
+    <li>
+      <a href="https://www.webtoons.com/de/drama/tomorrow/list?title_no=4021"
+         class="NPI=a:list,i:4021,r:5,g:de_de">
+        <div class="pic_area" data-title-unsuitable-for-children="true" data-title-unsuitable-for-children-skin="harmful_black_skin2"><img src="https://webtoon-phinf.pstatic.net/20220215_74/1644910239230p2R4W_JPEG/41Tomorrow_mobile_thumbnail.jpg?type=a92" alt="Tomorrow" width="80" height="80"></div>
+        <span class="num_area"><span class="ico_n5">5</span></span>
+        <div class="info_area">
+          <p class="genre">Drama</p>
+          <p class="subj">Tomorrow</p>
+          <p class="author">Llama</p>
+        </div>
+      </a>
+    </li>
+  
+  
+</ul>
+			</div>
+		
+
+
+		
+
+
+		
+
+
+		
+
+	
+
+					
+					
+						</div>
+					</div>
+					
+				</div>
+				
+			
+			</div>
+
+			<div class="go_top" id="_topBtn" style="display:none;">
+				<a href="#" onclick="return false;" title="Nach oben" class="btn_top">Nach oben</a>
+			</div>
+			<!-- //content -->
+	    </div>
+		<!-- //container -->
+
+		
+		<span class="ly_bookmark _bookmark" style="margin-left:-3000px;"><span class="ico_bookmark"></span>Lesezeichen</span>
+		<hr>
+	
+
+
+
+
+
+<!-- footer -->
+	<div id="footer" class="NE=a:fot">
+		<!-- notice -->
+		<div class="notice_area" id="noticeArea" style="display: none;"></div>
+		<!-- //notice -->
+		<div class="foot_app">
+			<div class="foot_cont">
+				<span class="ico_qrcode">WEBTOON</span>
+				<div class="foot_down_msg">
+					<p class="txt">WEBTOON jetzt herunterladen!</p>
+					<a href="https://play.google.com/store/apps/details?id=com.naver.linewebtoon&referrer=utm_source%3Dlinewebtoon%26utm_medium%3Dmobileweb" target="_blank" class="btn_google NPI=a:android,g:de_de">Jetzt bei Google Play</a>
+					<a href="https://itunes.apple.com/app/line-webtoon/id894546091?mt=8" target="_blank" class="btn_ios NPI=a:ios,g:de_de">Im App Store herunterladen</a>
+				</div>
+			</div>
+		</div>
+	
+		<ul class="foot_menu _footer">
+		
+			<li><a href="https://contact-cc.line.me/serviceId/12379?continue_without_login=true" rel="nofollow" target="_blank">Feedback</a></li>
+			<li class="bar">|</li>
+			
+			
+		<li><a href="https://help2.line.me/LINE_WEBTOON/pc?lang=de" rel="nofollow" class="N=a:fot.help,g:de_de" target="_blank">Hilfe</a></li>
+		<li class="bar">|</li>
+		<li><a href="https://www.webtoons.com/de/terms" class="NPI=a:tos,g:de_de">AGB</a></li>
+		<li class="bar">|</li>
+			<li><a href="https://www.webtoons.com/de/terms/privacyPolicy" class="NPI=a:privacy,g:de_de">Datenschutz</a></li>
+
+		
+		
+			<li class="bar">|</li>
+			<li><a href="https://www.webtoons.com/de/imprint" class="NPI=a:imprint,g:de_de">Impressum</a></li>
+		
+
+		
+		<li class="bar gdprFooter" style="display: none">|</li>
+		<li><a href="https://www.webtoons.com/de/consentsManagement" class="NPI=a:personaldata gdprFooter" style="display: none">Persönliche Daten</a></li>
+		
+	
+		
+		<li class="bar ccpaFooter" style="display: none">|</li>
+		<li><a href="https://www.webtoons.com/de/terms/dnsmpi" class="NPI=a:Donotsellinfo ccpaFooter" style="display: none">Do Not Sell My Personal Information</a></li>
+		
+	
+		<li class="bar">|</li>
+		<li class="language NE=a:set" id="languageArea">
+			<a href="#" class="lk_lang _selectedLanguage NPI=a:contlg,g:de_de"><span></span><span class="ico_lang_arr"></span></a>
+			<ul class="ly_lang _languageList">
+			
+			<li ><a href="#" class="ver_en _en _language NPI=a:contenglish" data-content-language="en" data-locale="en">English</a></li>
+			<li ><a href="#" class="ver_tw _zh-hant _language NPI=a:tradchinese,g:de_de" data-content-language="zh-hant" data-locale="zh_TW">中文 (繁體)</a></li>
+			<li ><a href="#" class="ver_th _th _language NPI=a:contth,g:de_de" data-content-language="th" data-locale="th_TH">ภาษาไทย</a></li>
+			<li ><a href="#" class="ver_id _id _language NPI=a:contid,g:de_de" data-content-language="id" data-locale="id">Indonesia</a></li>
+			<li ><a href="#" class="ver_es _es _language NPI=a:contid,g:de_de" data-content-language="es" data-locale="es">Español</a></li>
+			<li ><a href="#" class="ver_fr _fr _language NPI=a:contid,g:de_de" data-content-language="fr" data-locale="fr">Français</a></li>
+			<li class="on"><a href="#" class="ver_de _de _language NPI=a:contid,g:de_de" data-content-language="de" data-locale="de">Deutsch<span class="ico_lang_arr2"></span></a></li>
+			</ul>
+		</li>
+		</ul>
+		<!-- copyright -->
+		
+			
+			
+				<p class="copyright">ⓒ WEBTOON Entertainment Inc.</p>
+				<p class="foot_logo"><span class="ico_foot_logo">WEBTOON</span></p>
+			
+		
+	</div>
+	<!-- //footer -->
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+		
+	
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="/static/bundle/vendor-4a505fda385556e778cc.js" charset="utf-8"></script>
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+window.defaultErrorMessage = {
+	'alert.error.no_internet_connection' : 'Keine Internet-Verbindung.\nBitte prüfe deine Internet-Verbindung.',
+	'alert.error.invalid_input' : 'Ungültige Eingabe',
+	'alert.error.unknown' : 'Ein unbekannter Fehler ist aufgetreten. Bitte versuche es später erneut.'
+};
+window.__commonScriptState__ = {
+	contentLanguage : 'GERMAN',
+	contentLanguageCode : "de",
+	browserType : "FIREFOX",
+	proxyName : "eu",
+	isNotNoticePage : true,
+	domain : 'www.webtoons.com',
+	recentBarParam : {
+		imgDomain : 'https://webtoon-phinf.pstatic.net',
+		language : 'de',
+		title : 'Kürzlich gelesen',
+		domain : 'www.webtoons.com',
+		contentLanguage : 'de'
+	},
+	noticeParam : {
+		domain : "www.webtoons.com",
+		contentLanguageCode : "de",
+		nclkLanguageCode : "de_de",
+		messages : {
+			"menu.notice" : "Mitteilungen"
+		}
+	},
+	loginLayerParam : {
+		isEmailLoginSupport : true,
+		contentLanguageCode : "de",
+		domain : "www.webtoons.com",
+		loginType : "EMAIL",
+		serviceZone : "GLOBAL",
+		messages : {
+			'message.login.author.publish.1' : 'Jetzt anmelden, um neue Leser',
+			'message.login.author.publish.2' : 'aus der ganzen Welt zu erreichen',
+			'message.login.1' : 'Melde dich an und genieße besondere Funktionen.',
+			'message.login.2' : '',
+			'message.login.3' : '',
+			'message.login.input.email.placeholder' : 'E-Mail-Adresse',
+			'message.login.input.password.placeholder' : 'Passwort',
+			'button.signup' : 'Registrieren',
+			'button.login' : 'Anmelden',
+			'message.login.forget_password' : 'Passwort vergessen?',
+			'message.login.or' : 'ODER logge dich ein mit',
+			'menu.log_in' : 'Anmelden',
+			'button.close' : 'Schließen',
+			'message.login.close' : 'Schließe das Login-Fenster',
+			'sns.FACEBOOK' : 'Facebook',
+			'sns.TWITTER' : 'Twitter',
+			'sns.LINE' : 'LINE',
+			'sns.RENREN' : 'Renren',
+			'sns.TUMBLR' : 'Tumblr',
+			'sns.GOOGLE_PLUS' : 'Google+',
+			'sns.GOOGLE' : 'Google',
+			'sns.REDDIT' : 'Reddit',
+			'sns.ETC' : 'ETC'
+		},
+
+		availableSnsList : (function () { var result = [];
+			
+				result.push("FACEBOOK");
+			
+				result.push("TWITTER");
+			
+				result.push("LINE");
+			
+				result.push("GOOGLE");
+			
+				result.push("APPLE");
+			
+			return result;})(),
+		nclkLanguageCode: "de_de"
+	},
+	gdprCookieBannerMessages : {
+		'gdpr.cookie_agreement_banner.desc' : 'WEBTOON verwendet Cookies, die für Authentifizierungs- und Sicherheitszwecke notwendig sind. Wir würden auch gerne optionale Cookies verwenden, um personalisierte Inhalte bereitzustellen und unsere Dienste, basierend auf deinem Nutzungsverhalten zu verbessern. Du kannst alle optionalen Cookies akzeptieren oder ablehnen, indem du unten auf die entsprechenden Schaltflächen oder auf die Schaltfläche „Cookie-Einstellungen\' klickst, wo du optionale Cookies verwalten kannst. Für mehr Informationen zu Cookies lese unsere \u003Ca href=\"https:\/\/www.webtoons.com\/de\/terms\/cookiePolicy\" target=\"_blank\"\u003ECookie-Richtlinie\u003C\/a\u003E.',
+		'gdpr.cookie_agreement_banner.agree' : 'Ich stimme zu',
+		'gdpr.cookie_agreement_banner.cookie_setting' : 'Cookie-Einstellungen'
+	},
+	ccpaCookieBannerMessages : {
+		'ccpa.cookie_agreement_banner.desc' : 'I agree that WEBTOON may process my personal information in accordance with the WEBTOON \u003Ca href=\"https:\/\/www.webtoons.com\/de\/terms\/privacyPolicy\" target=\"_blank\"\u003EPrivacy Policy\u003C\/a\u003E and that my personal information may be disclosed to trusted third parties of WEBTOON for advertising and marketing purposes. I confirm that I am authorized to provide this consent. The use of data can be managed in the \u003Ca href=\"https:\/\/www.webtoons.com\/de\/cookieSetting\"\u003ECookie Settings\u003C\/a\u003E and\/or at the link below.\u003Cbr\u003E',
+		'ccpa.cookie_agreement_banner.desc.do_not_sell' : 'Do Not Sell My Personal Information',
+		'ccpa.cookie_agreement_banner.title' : 'Consent to Third Party Advertising and Marketing',
+		'ccpa.cookie_agreement_banner.confirm' : 'Confirm',
+	},
+	gdprChildProtectionPopupMessages : {
+		'gdpr.child_protection_popup.challenge.header' : 'CANVAS ist für Kinder unter 16 Jahre mit Wohnsitz in Deutschland nicht zugänglich.',
+		'gdpr.child_protection_popup.challenge.desc' : 'Um deutsche Jugendschutzauflagen einzuhalten, ist der Zugang zu CANVAS eingeschränkt. Erfahre mehr dazu auf unserer \u003Ca href=\"https:\/\/help2.line.me\/LINE_WEBTOON\/pc?contentId=50010166&lang=de\" target=\"_blank\"\u003EHilfe\u003C\/a\u003E.',
+		'button.ok' : 'OK'
+	},
+	policyAgreePopupParam : {
+		domain : "www.webtoons.com",
+		contentLanguageCode : "de",
+		nclkLanguageCode : "de_de",
+		messages : {
+			'policy.popup.title' : 'Grüße von \u003Cbr\u003E WEBTOON Entertainment Inc.',
+			'policy.popup.text' : 'Um unseren Service vollständig zu nutzen, musst du den aktualisierten Nutzungsbediungen und der Datenschutz-Richtlinie zustimmen.',
+			'policy.popup.desc' : 'Ich stimme den {tou} und der {pp} von WEBTOON zu.',
+			'policy.popup.desc.tou' : 'Nutzungsbedingungen',
+			'policy.popup.desc.pp' : 'Datenschutz-Richtlinie',
+			'policy.popup.caution' : 'Zustimmen, um fortzufahren',
+			'policy.popup.submit' : 'Absenden',
+			'policy.popup.cancel' : 'Abbrechen',
+			'policy.popup.cancel.continue' : 'Ohne Anmeldung fortfahren',
+			'policy.popup.text_for_gdpr' : 'Um unseren Service vollständig zu nutzen, musst du den neuen, aktualisierten Nutzungsbedingungen zustimmen.',
+			'policy.popup.desc_for_gdpr' : 'Ich stimme den {tou} von WEBTOON zu.',
+			'policy.popup.desc_for_gdpr_privacy' : 'Bitte lies unsere neue, aktualisierte {pp} um mehr darüber unsere Verarbeitung deiner persönlichen Daten zu erfahren.',
+		}
+	}
+}
+</script>
+<script type="text/javascript" src="/static/bundle/common/commonScript-68359d3845263ace8ae8.js" charset="utf-8"></script>
+
+
+
+
+<script type="text/javascript">
+	window.__rankingState__ = {
+		contentLanguageCode : "de",
+		rankingCount : 5,
+		rankingTemplateParam : {
+			domain : "www.webtoons.com",
+			contentLanguageCode: "de",
+			nclkLanguageCode : "de_de",
+			imgQuality : "q90",
+			imageDomain : "https://webtoon-phinf.pstatic.net"
+		},
+		genreNameMap : {
+			
+			'ACTION' : 'Action',
+			
+			'COMEDY' : 'Comedy',
+			
+			'DRAMA' : 'Drama',
+			
+			'FANTASY' : 'Fantasy',
+			
+			'HORROR' : 'Horror',
+			
+			'ROMANCE' : 'Romantisch',
+			
+			'SLICE_OF_LIFE' : 'Alltagsstory',
+			
+			'THRILLER' : 'Thriller'
+			
+		},
+		rankingComponentInfoList: [
+			
+			{
+				"rankingComponentType": "WEBTOON_NEW_TITLE_RANKING",
+				"queryParamKey": "",
+				"titleListMaxSize": "5"
+			},
+			
+			{
+				"rankingComponentType": "WEBTOON_GENRE_RANKING",
+				"queryParamKey": "rankingGenre",
+				"titleListMaxSize": "5"
+			},
+			
+		],
+	}
+</script>
+<script type="text/javascript" src="/static/bundle/common/rankingScript-724b683371527c1d6bfd.js" charset="utf-8"></script>
+
+
+</div>
+
+<script type="text/javascript">
+
+	window.__viewerState__ = {
+		languageCode : "de",
+	
+		viewerParam : {
+			titleNo : 3643,
+			episodeNo : 29,
+			episodeSeq : 29,
+			isAgeGradeNotice : false,
+			isFilteredCountry : false,
+			titleLanguageCode : "de",
+			contentLanguageCode : "de",
+			representGenre : 'ROMANCE',
+			serviceZone : "GLOBAL",
+			proxyName : "eu",
+		},
+
+
+		shareParam : {
+			translateMessage : "[Fan-Übersetzungen] ",
+			translateMap : {
+				ALL:'Alle Sprachen',
+				ENG:'Englisch',
+				CMN:'Vereinfachtes Chinesisch',
+				CMT:'Traditionelles Chinesisch',
+				THA:'Thailändisch',
+				IND:'Indonesisch',
+				FRA:'Französisch',
+				VIE:'Vietnamesisch',
+				RUS:'Russisch',
+				SPA:'Spanisch',
+				ARA:'Arabisch',
+				FIL:'Tagalog',
+				DEU:'Deutsch',
+				HIN:'Hindi',
+				ITA:'Italienisch',
+				JPN:'Japanisch',
+				POR:'Portugiesisch (Brasilien)',
+				TUR:'Türkisch',
+				MAY:'Bahasa Malaysia',
+				POL:'Polnisch',
+				POT:'Portugiesisch (Portugal)',
+				BUL:'Bulgarisch',
+				DAN:'Dänisch',
+				NLD:'Niederländisch',
+				RON:'Rumänisch',
+				MON:'Mongolisch',
+				GRE:'Griechisch',
+				LIT:'Litauisch',
+				CES:'Tschechisch',
+				SWE:'Schwedisch',
+				BEN:'Bengalisch'
+			},
+			baseTranslateByMessage : "Dies wurde von Fans ins %s übersetzt.",
+			title : "Leveling Up My Husband to the Max",
+			episodeTitle : "Ep.29",
+			titleSynopsis : "Ein kalter, gef\u00FChlloser Ehemann, eine unvern\u00FCnftige Schwiegermutter und ein unrechtm\u00E4\u00DFiger Tod \u2013 k\u00F6nnte es im Leben noch schlimmer kommen? Was w\u00E4re, wenn du die Chance bek\u00E4mst, die Dinge zu \u00E4ndern? Als Amber im Moment ihrer Hinrichtung zehn Jahre in die Vergangenheit geschickt wird, steht sie der j\u00FCngeren Version ihres Mannes gegen\u00FCber, aber irgendetwas ist anders an ihm ... er l\u00E4sst sich von ihr nach Belieben herumkommandieren! Wird es ihr gelingen, zu verhindern, dass sich ihr Schicksal wiederholt, oder wird ihr Leben erneut im Ungl\u00FCck enden? Die Operation \u201CLeveling Up My Husband to the Max\u201D beginnt jetzt!",
+			shareMessage : {
+				
+				
+				
+				twitterShareMessage : "Verpass nicht {FOLGE_NAME} von #{TITLE_NAME}.\n {LINK_URL} #WEBTOON",
+				
+				
+				
+				
+				
+				tumblrShareTitle : "{TITLE_NAME} {FOLGE_NAME}",
+				
+				
+				
+				
+				
+				redditShareTitle : "{TITLE_NAME} - {FOLGE_NAME} Dieser Comic hat mir den Tag erheitert!",
+				
+				
+
+				
+				
+				
+				tumblrDescription : "{TITLE_SYNOPSIS}\nVerpasse nicht das heutige Update von #{TITLE_NAME}! #webcomic #WEBTOON",
+				
+				
+
+				
+				
+				
+				lineShareMessage : "Lies {TITLE_NAME} jetzt auf WEBTOON!"
+				
+				
+			},
+			seoTitle : "WEBTOON",
+			episodeSeq : 29
+		},
+		likeItParam : {
+			'titleNo' : 3643
+			, 'episodeNo' : 29
+			, 'currentCount' : 0
+			, 'likeUrl' : "https://global.apis.naver.com/lineWebtoon/likeit/webtoon_neo_like_jsonp.json"
+			, 'unlikeUrl' : "https://global.apis.naver.com/lineWebtoon/likeit/webtoon_neo_unlike_jsonp.json"
+			, 'errorMessage' : "Ein unbekannter Fehler ist aufgetreten. Bitte versuche es später erneut."
+			, 'zeroMessage' : "Gefällt mir"
+			, 'overMessage' : "Über dem Limit. Bitte versuche es später noch einmal."
+			, 'consumerKey' : "BiqLr39tq3iAWWxuiOXg"
+			, 'contentsId' : "w_3643_29"
+			, 'menuLanguage' : "de"
+			, 'contentLanguageCode' : "de"
+			, 'isChallenge' : false
+			, 'isPromotion' : false
+			, 'promotionName' : ""
+			, 'displayId' : "LINEWEBTOON"
+		},
+		title : {
+			titleNo: 3643,
+			ageGradeNotice : false,
+			unsuitableForChildren : true,
+		},
+		gdprChildProtectionPopupMessages : {
+			'gdpr.child_protection_popup.title.header' : 'Dieser Inhalt ist für Kinder\/Jugendliche nicht zugänglich. ',
+			'button.ok' : 'OK'
+		},
+		shareComponentParam : {
+			shareCopyMessage: "Die URL wurde kopiert.<br> An der gewünschten Stelle einfügen (Strg+V).",
+			
+			clipboardSwf: "/swf/clipboard.swf",
+			serviceZone: "GLOBAL",
+			titleNo : 3643,
+			episodeNo : 29,
+			isChallenge : false,
+			fbRefresh : "1651500049000",
+			languageCode : "de",
+			childProtectorParams : {
+				messages : {
+					"main" : "Diese Funktion ist nicht verfügbar. Siehe \u003Cbr\u003E {childpp} für mehr Informationen.",
+					"childpp" : "Datenschutz-Richtlinie für Kinder ",
+					"ok" : "Schließen",
+				},
+				childppLink : "https://www.webtoons.com/de/terms/childrensPrivacyPolicy"
+			}
+		},
+		addFavoriteParam :{
+			titleNo: 3643,
+			isChallenge : false,
+			areaCode : "vtw",
+			favoriteButtonHTML : '<em class="ico_plus3"></em>Abonnieren',
+			alreadyFavoritedButtonHTML : '<em class="ico_plus3"></em><span class="subscribe_tit">Abonniert',
+			favoriteText : "Abonnieren",
+			alreadyFavoritedText : "Abonniert",
+			promotionName : ''
+		},
+		commentParam : {
+			sDomain : 'https://ssl.pstatic.net/static.cbox',
+			sApiDomain : 'https://global.apis.naver.com/commentBox/cbox',
+			sAuthType : 'neo',
+			sConsumerKey : 'BiqLr39tq3iAWWxuiOXg',
+			sTicket : 'webtoon',
+			sTemplateId : 'or_de',
+			sObjectId : 'w_3643_29',
+			sGroupId : 'w_3643',
+			sLanguage : 'de',
+			bByCountry : false,	
+			sCssId : 'webtoon',
+			nPageSize : 15,
+			nReplyPageSize : 10,
+			nReplyIndexSize : 10,
+			sLikeItId : 'w_3643_29',
+			sDateFormat : 'M j, Y',
+			sSort : 'favorite',
+			sLocale : "de-DE",
+			bSortCookie : true,
+			
+			htMessage : {
+				ago : {
+					just_now : 'Ganz frisch',
+					minute : 'Vor {0} Minuten',
+					hour : 'Vor {0} Stunden',
+					day : 'Vor {0} Tagen',
+				},
+				alert : {
+					delete_confirm : "Möchtest du diesen Kommentar löschen?",
+					report_confirm : "Möchtest du diesen Kommentar melden?",
+					
+					empty_comment : "Bitte gib einen Kommentar ein.",
+					exceed_comment : "Darf nicht länger als 500 Zeichen sein.",
+					login_require : "Anmeldung erforderlich, um diese Funktion zu nutzen",
+					
+					max_length : "Darf nicht länger als 500 Zeichen sein.",
+					
+					
+					liked : "Dir gefällt dieser Kommentar",
+					disliked : "Dieser Kommentar gefällt dir nicht",
+					unliked : "Du hast ‚Gefällt mir\' wieder entfernt.",
+					dislike_canceled : "Du hast ‚Gefällt mir nicht\' wieder entfernt",
+					cant_like_own_comment : "Du kannst bei deinem eigenen Kommentar nicht ‚Gefällt mir\' drücken.",
+					cant_dislike_own_comment : "Du kannst bei deinem eigenen Kommentar nicht ‚Gefällt mir nicht\' drücken.",
+					block_confirm : ""
+				},
+				template : {
+					comment : "Kommentare",
+					edit : "Bearbeiten",
+					'delete' : "Entfernen",
+					report : "Melden",
+					reply : "Antworten",
+					reply_count : "Antworten",
+					list_empty : "Es gibt noch keine Kommentare. \u003Cbr\u003ESchreibe den ersten Kommentar!",
+					write_title : "Kommentare eingeben",
+					write_legend : "Kommentare eingeben",
+					
+					
+					write_placeholder : "Eingabe von bis zu 500 Zeichen möglich",
+					write_long_placeholder : "Eingabe von bis zu 500 Zeichen möglich",
+					
+					submit : "Posten",
+					cancel : "Abbrechen ",
+					like : "Gefällt mir",
+					like_comment : "Gefällt mir",
+					dislike : "Gefällt mir nicht",
+					dislike_comment : "Gefällt mir nicht",
+					liked : "Dir gefällt dieser Kommentar",
+					disliked  : "Dieser Kommentar gefällt dir nicht",
+					unliked : "Du hast ‚Gefällt mir\' wieder entfernt.",
+					dislike_canceled : "Du hast ‚Gefällt mir nicht\' wieder entfernt",
+					page_previous : "Vorherige Seite",
+					page_next : "Nächste Seite",
+					page_first : 'First page',
+					page_last : 'Last page',
+					page_total : 'Total page count',
+					page_current : 'Current page',
+					page_total_comment : 'Total comment',
+					page_current_comment : 'Current comment',
+					page_move : 'Move page',
+					page_move_list : 'Move to page list',
+					page_move_first : 'Move to first page list',
+					page_move_previous : 'Move to previous page list',
+					page_move_next : 'Move to next page list',
+					page_move_last : 'Move to last page list',
+					page_move_comment : 'Move to comment list',
+					best : "TOP",
+					editor : "Creator",
+					sort_new : "Neuste",
+					sort_favorite : "Top",
+					info_comment_off : "Kommentare für diese Folge wurden vom\u003Cbr\u003ECreator deaktiviert.",
+					info_write_off : "Kommentare für diese Folge wurden vom Creator deaktiviert."
+				}
+			},
+			htErrorHandler : {
+				'3010' : '',
+				'5005' : "Dieser Kommentar gefällt dir bereits.",
+				'5007' : "Du hast diesen Kommentar bereits abgewertet.",
+				'5025' : ""
+			}
+		},
+		gaLoggerParam : {
+			'titleNo' : 3643
+			, 'episodeNo' : 29
+			, 'weekday' : 'MONDAY'
+			, 'genre' : 'ROMANCE'
+		},
+		fbLoggerParam : {
+			title : 'Leveling Up My Husband to the Max',
+			episodeNo : 29
+		},
+		shareAskParam : {
+			nclkLanguageCode : "de_de",
+			messages : {
+				'button.yes' : "Ja",
+				'button.no' : "Nein",
+			}
+		},
+
+
+		messages : {
+			"message.viewer.age_grade_notice" : "HINWEIS:\n\n\nDiese Serie enthält Themen und Situationen für Erwachsene und wird für ein reiferes Publikum empfohlen. Ansehen auf eigene Verantwortung. Fortfahren, den Inhalt anzuzeigen?"
+			, "message.viewer.filtered_country_notice" : "Dieser Inhalt ist in deinem Land nicht verfügbar."
+			, "button.cancel" : "Abbrechen "
+			, "button.ok" : "OK"
+		},
+		
+		
+		signUpLayerParam : {
+			domain : "www.webtoons.com",
+			contentLanguageCode : "de",
+			nclkLanguageCode : "de_de",
+			messages : {
+				"message.signup.desc" : "Mit meiner Registrierung stimme ich den \u003Ca href=\"https:\/\/www.webtoons.com\/de\/terms?noLogin=true\" target=\"_blank\" class=\"N=a:log.termsofuse,g:de_de\"\u003ENutzungsbedingungen\u003C\/a\u003E und \u003Ca href=\"https:\/\/www.webtoons.com\/de\/terms\/privacyPolicy?noLogin=true\" target=\"_blank\" class=\"N=a:log.privacy,g:de_de\"\u003EDatenschutz-Richtlinie\u003C\/a\u003E von WEBTOON zu",
+				'message.signup.need_agree' : 'Klicke vor dem Absenden auf die Schaltfläche Prüfen.',
+				'button.sign_up' : 'Absenden'
+			}
+		}
+	};
+</script>
+
+<script type="text/javascript" src="/static/bundle/viewer/viewer-661c017c8525e5b2c777.js" charset="utf-8"></script>
+</body>
+</html>

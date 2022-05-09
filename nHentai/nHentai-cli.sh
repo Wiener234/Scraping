@@ -10,14 +10,14 @@ dir="$HOME/.cache/nHentai/$num"
 mkdir -p $dir
 
 
-pg=$(curl "https://nhentai.net/g/$num/1/" | sed -nE 's#.*class="num-pages">(.*)</span><.*#\1#p')
+pg=$(curl -s "https://nhentai.net/g/$num/1/" | sed -nE 's#.*class="num-pages">(.*)</span><.*#\1#p')
 
 
 for i in $(seq $pg);do
     i_t=$(printf "%03d" $i)
 
     curl -s -A "$agent" -o "$dir/$i_t" "$(curl -s "https://nhentai.net/g/$num/$i/" | sed -nE 's#.*<img src="([^"]*)".*#\1#p')" && printf "\33[2K\r\033[1;32m $i ✓ (pgs left : %s)" "$((pg - i))"
-    sleep .1
+    sleep .2
 done
 
 #convert "$dir/*" "$num.pdf"
@@ -29,4 +29,3 @@ for i in $(seq $pg);do
 done
 
 sxiv $dir/* &
-wait

@@ -28,6 +28,8 @@ fix_text () {
     sed -i 's/\\//g' page*
     cat page* > $name
     pandoc -o $HOME/storage/pictures/$name.epub $name
+    rm $name
+    rm $name page*
 }
 
 edit_epub () {
@@ -49,4 +51,4 @@ edit_epub () {
 
 fix_text
 #edit_epub
-xdg-open $name.epub
+xdg-open $HOME/storage/pictures/$name.epub

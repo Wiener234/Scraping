@@ -1,0 +1,52 @@
+#! /bin/bash
+
+
+printf "Enter Name: " && read name
+name=$(printf "$name" | sed 's/[[:space:]]/-/g')
+
+page=$(curl -L "https://www.literotica.com/s/$name?page=1" | sed -nE 's/.*"pages_count":(.*)\}\}\,"audio".*/\1/p')
+
+printf "$page"
+
+for i in $(seq $page);do
+    curl -o page$i -L "https://www.literotica.com/s/$name?page=$i"
+done
+
+
+
+
+
+
+
+
+fix_text () {
+    sed -i '1,5d' page*
+    sed -i 's/.*pageText":"\(.*\)"\}\}\,"lists":\[.*/\1/' page*
+    sed -i 's/\\\\r/\n/g' page*
+    sed -i 's/\\\\n//g' page*
+    sed -i 's/\\\\//g' page*
+    sed -i 's/\\//g' page*
+    cat page* > $name
+    pandoc -o $HOME/storage/pictures/$name.epub $name
+}
+
+edit_epub () {
+
+    mkdir zip
+    unzip -d zip/ $name.epub
+    mkdir zip/OEBPS
+    mv zip/file0.html zip/toc.ncx zip/cover.html zip/content.opf zip/OEBPS/
+    sed -i 's/full-path="/full-path="OEBPS\//' zip/META-INF/container.xml
+    rm $name.epub
+    #zip -0 $name.epub zip/mimetype
+    zip -rX $name.epub zip/mimetype zip/META-INF zip/OEBPS
+    rm -rf zip
+
+}
+
+
+
+
+fix_text
+#edit_epub
+xdg-open $name.epub

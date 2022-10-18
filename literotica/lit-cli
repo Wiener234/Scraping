@@ -4,9 +4,31 @@
 printf "Enter Name: " && read name
 name=$(printf "$name" | sed 's/[[:space:]]/-/g')
 
+printf "Enter Pt: " && read pt
+
+printf "Parts: $pt"
+
 page=$(curl -L "https://www.literotica.com/s/$name?page=1" | sed -nE 's/.*"pages_count":(.*)\}\}\,"audio".*/\1/p')
 
-printf "$page"
+#printf "$page"
+
+
+# get first part
+# get pages
+
+# get every other part
+# get pages
+#
+# get next part
+#
+# curl first part
+# cut 
+#
+# for i in part
+# curl part
+# cut 
+#
+# put together
 
 for i in $(seq $page);do
     curl -o page$i -L "https://www.literotica.com/s/$name?page=$i"
@@ -14,23 +36,46 @@ done
 
 
 
+parts () {
+    for j in $(seq -w 01 $pt);
+    do
+        printf "Part: $j"
+        page1=$(curl -L "https://www.literotica.com/s/$name-pt-$j?page=1" | sed -nE 's/.*"pages_count":(.*)\}\}\,"audio".*/\1/p')
+        printf "\n"
+        printf "Page: $page1"
+        printf "\n"
+        for i in $(seq $page1);
+        do
+            printf "Page: $i"
+            curl -o page$i -L "https://www.literotica.com/s/$name-pt-$j?page=$i"
+        done
+        sed -i '1,5d' page*
+        sed -i 's/.*pageText":"\(.*\)"\}\}\,"lists":\[.*/\1/' page*
+        sed -i 's/\\\\r/\n/g' page*
+        sed -i 's/\\\\n//g' page*
+        sed -i 's/\\\\//g' page*
+        sed -i 's/\\//g' page*
+        cat page* > $name$j
+        rm page*
+    done
+}
 
 
 
 
 
 fix_text () {
-    sed -i '1,5d' page*
-    sed -i 's/.*pageText":"\(.*\)"\}\}\,"lists":\[.*/\1/' page*
-    sed -i 's/\\\\r/\n/g' page*
-    sed -i 's/\\\\n//g' page*
-    sed -i 's/\\\\//g' page*
-    sed -i 's/\\//g' page*
-    cat page* > $name
-    pandoc -o $HOME/storage/pictures/$name.epub $name
-    rm $name
-    rm $name page*
+        num=01
+        sed -i '1,5d' page*
+        sed -i 's/.*pageText":"\(.*\)"\}\}\,"lists":\[.*/\1/' page*
+        sed -i 's/\\\\r/\n/g' page*
+        sed -i 's/\\\\n//g' page*
+        sed -i 's/\\\\//g' page*
+        sed -i 's/\\//g' page*
+        cat page* > $name$num
+    #    rm page*
 }
+
 
 edit_epub () {
 
@@ -46,9 +91,17 @@ edit_epub () {
 
 }
 
+epub () {
+    cat $name* > $name
+    pandoc -o $HOME/storage/pictures/$name.epub $name
+    rm $name* page*
 
+}
 
 
 fix_text
-#edit_epub
+parts
+epub
+
 xdg-open $HOME/storage/pictures/$name.epub
+

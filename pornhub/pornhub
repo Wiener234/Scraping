@@ -1,0 +1,86 @@
+#!/bin/python3
+
+from seleniumwire import webdriver  # Import from seleniumwire
+from selenium.webdriver.chrome.options import Options
+from selenium_stealth import stealth
+import time
+import subprocess
+from xvfbwrapper import Xvfb
+
+display = Xvfb()
+display.start()
+
+viewkey = input('viewkey: ')
+
+browser_agent = 'Mozilla/5.0 (X11; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+
+chrome_options = Options()
+chrome_options.add_argument("--disable-extensions")
+chrome_options.add_argument("--disable-gpu")
+chrome_options.add_argument("--no-sandbox")  # linux only
+# chrome_options.add_argument("--headless")
+chrome_options.add_argument("--window-size=1920x1080")
+chrome_options.add_argument("--enable-javascript")
+chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+# chrome_options.headless = True  # also works
+chrome_options.add_argument(
+    'Mozilla/5.0 (X11; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0')
+
+driver = webdriver.Chrome(options=chrome_options)
+# driver.implicitly_wait(3)
+
+stealth(driver,
+        # user_agent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.30',
+        languages=["en-US", "en"],
+        vendor="Google Inc.",
+        platform="Win32",
+        webgl_vendor="Intel Inc.",
+        renderer="Intel Iris OpenGL Engine",
+        fix_hairline=True,
+        )
+
+# Create a new instance of the Chrome driver
+
+# Go to the Google home page
+driver.get('https://www.pornhub.com/view_video.php?viewkey=ph6304a448eee84')
+driver.add_cookie({'domain': '.pornhub.com', 'expiry': 1695143082, 'httpOnly': False,
+                  'path': '/', 'name': 'accessAgeDisclaimerPH', 'value': '1', 'secure': False})
+# time.sleep(5)
+file = open('test1.txt', "w")
+# Access requests via the `requests` attribute
+for request in driver.requests:
+    if request.response:
+        file.write(str(request.url)+"\n")
+
+
+file.close()
+
+
+with open('test1.txt', 'r') as f:
+    lines = f.read().split("\n")
+
+
+print("Number of lines is {}".format(len(lines)))
+
+word = 'master'  # dummy word. you take it from input
+
+# iterate over lines, and print out line numbers which contain
+# the word of interest.
+for i, line in enumerate(lines):
+    if word in line:  # or word in line.split() to search for full words
+        print("Word \"{}\" found in line {}".format(word, i+1))
+        global url_line
+        url_line = i
+        print(url_line)
+
+file = open('test1.txt', 'r')
+
+content = file.readlines()
+
+url = content[url_line]
+url = url.strip('\n')
+
+display.stop()
+
+subprocess.Popen(['mpv', url])
+exit()

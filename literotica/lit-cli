@@ -1,0 +1,110 @@
+#! /bin/bash
+
+
+printf "Enter Name: " && read name
+name=$(printf "$name" | sed 's/[[:space:]]/-/g')
+
+printf "Enter Pt: " && read pt
+
+printf "Parts: $pt"
+
+###when the first chapter doesn't start with a number
+
+page=$(curl -L "https://www.literotica.com/s/$name?page=1" | sed -nE 's/.*"pages_count":(.*)\}\}\,"audio".*/\1/p')
+
+for i in $(seq $page);do
+    curl -o page$i -L "https://www.literotica.com/s/$name?page=$i"
+done
+
+#printf "$page"
+
+
+# get first part
+# get pages
+
+# get every other part
+# get pages
+#
+# get next part
+#
+# curl first part
+# cut 
+#
+# for i in part
+# curl part
+# cut 
+#
+# put together
+
+
+
+
+parts () {
+    for j in $(seq -w 01 $pt);
+    do
+        printf "Part: $j"
+        page1=$(curl -L "https://www.literotica.com/s/$name-$j?page=1" | sed -nE 's/.*"pages_count":(.*)\}\}\,"audio".*/\1/p')
+        printf "\n"
+        printf "Page: $page1"
+        printf "\n"
+        for i in $(seq $page1);
+        do
+            printf "Page: $i"
+            curl -o page$i -L "https://www.literotica.com/s/$name-$j?page=$i"
+        done
+        sed -i '1,5d' page*
+        sed -i 's/.*pageText":"\(.*\)"\}\}\,"lists":\[.*/\1/' page*
+        sed -i 's/\\\\r/\n/g' page*
+        sed -i 's/\\\\n//g' page*
+        sed -i 's/\\\\//g' page*
+        sed -i 's/\\//g' page*
+        cat page* > $name$j
+        rm page*
+    done
+}
+
+
+
+
+
+fix_text () {
+        num=01
+        sed -i '1,5d' page*
+        sed -i 's/.*pageText":"\(.*\)"\}\}\,"lists":\[.*/\1/' page*
+        sed -i 's/\\\\r/\n/g' page*
+        sed -i 's/\\\\n//g' page*
+        sed -i 's/\\\\//g' page*
+        sed -i 's/\\//g' page*
+        cat page* > $name$num
+        rm page*
+}
+
+
+edit_epub () {
+
+    mkdir zip
+    unzip -d zip/ $name.epub
+    mkdir zip/OEBPS
+    mv zip/file0.html zip/toc.ncx zip/cover.html zip/content.opf zip/OEBPS/
+    sed -i 's/full-path="/full-path="OEBPS\//' zip/META-INF/container.xml
+    rm $name.epub
+    #zip -0 $name.epub zip/mimetype
+    zip -rX $name.epub zip/mimetype zip/META-INF zip/OEBPS
+    rm -rf zip
+
+}
+
+epub () {
+    cat $name* > $name
+    pandoc --epub-title-page=false -o $HOME/storage/pictures/$name.epub $name
+    rm $name* page*
+
+}
+
+
+fix_text
+parts
+epub
+
+xdg-open $HOME/storage/pictures/$name.epub &
+

@@ -76,7 +76,7 @@ fix_text () {
         sed -i 's/\\\\//g' page*
         sed -i 's/\\//g' page*
         cat page* > $name$num
-    #    rm page*
+        rm page*
 }
 
 

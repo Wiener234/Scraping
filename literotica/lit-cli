@@ -8,7 +8,13 @@ printf "Enter Pt: " && read pt
 
 printf "Parts: $pt"
 
+###when the first chapter doesn't start with a number
+
 page=$(curl -L "https://www.literotica.com/s/$name?page=1" | sed -nE 's/.*"pages_count":(.*)\}\}\,"audio".*/\1/p')
+
+for i in $(seq $page);do
+    curl -o page$i -L "https://www.literotica.com/s/$name?page=$i"
+done
 
 #printf "$page"
 
@@ -30,9 +36,6 @@ page=$(curl -L "https://www.literotica.com/s/$name?page=1" | sed -nE 's/.*"pages
 #
 # put together
 
-for i in $(seq $page);do
-    curl -o page$i -L "https://www.literotica.com/s/$name?page=$i"
-done
 
 
 
@@ -40,14 +43,14 @@ parts () {
     for j in $(seq -w 01 $pt);
     do
         printf "Part: $j"
-        page1=$(curl -L "https://www.literotica.com/s/$name-pt-$j?page=1" | sed -nE 's/.*"pages_count":(.*)\}\}\,"audio".*/\1/p')
+        page1=$(curl -L "https://www.literotica.com/s/$name-$j?page=1" | sed -nE 's/.*"pages_count":(.*)\}\}\,"audio".*/\1/p')
         printf "\n"
         printf "Page: $page1"
         printf "\n"
         for i in $(seq $page1);
         do
             printf "Page: $i"
-            curl -o page$i -L "https://www.literotica.com/s/$name-pt-$j?page=$i"
+            curl -o page$i -L "https://www.literotica.com/s/$name-$j?page=$i"
         done
         sed -i '1,5d' page*
         sed -i 's/.*pageText":"\(.*\)"\}\}\,"lists":\[.*/\1/' page*
@@ -93,7 +96,7 @@ edit_epub () {
 
 epub () {
     cat $name* > $name
-    pandoc -o $HOME/storage/pictures/$name.epub $name
+    pandoc --epub-title-page=false -o $HOME/storage/pictures/$name.epub $name
     rm $name* page*
 
 }
@@ -103,5 +106,5 @@ fix_text
 parts
 epub
 
-xdg-open $HOME/storage/pictures/$name.epub
+xdg-open $HOME/storage/pictures/$name.epub &
 

@@ -96,7 +96,7 @@ edit_epub () {
 
 epub () {
     cat $name* > $name
-    pandoc --epub-title-page=false -o $HOME/storage/pictures/$name.epub $name
+    pandoc -o $HOME/storage/pictures/$name.epub $name
     rm $name* page*
 
 }
